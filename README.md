@@ -11,7 +11,7 @@ Welcome to my GitHub profile. I really glad to share main ideas or directions I'
 
 * [Deep Neural Network Gesture Classifier](https://github.com/olpotkin/DNN-Gesture-Classifier), [Demo](https://www.youtube.com/watch?v=zmCqylqOvXY) ⚡
 * [Train a Smartcab How to Drive: Reinforcement Learning](https://github.com/olpotkin/Smartcab-RL-Agent) 🕸
-* [identify an estimate of the canine’s breed](https://github.com/olpotkin/dog-project)
+* [Identify an estimate of the canine’s breed](https://github.com/olpotkin/dog-project) 🕸
 
 #### Solutions from Hackathons or Interview Preparations 🛶
 

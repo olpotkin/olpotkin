@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile. I really glad to share main ideas or directions I'm working on:
+Welcome to my GitHub profile. I really glad to share main ideas and directions I'm working on:
 
 #### 🚗 Autonomous driving
 

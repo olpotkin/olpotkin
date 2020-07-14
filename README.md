@@ -4,10 +4,8 @@ Welcome to my GitHub profile. I really glad to share main ideas or directions I'
 
 #### Autonomous driving 🚗
 
-* [3D Object Tracking](https://github.com/olpotkin/3D-Object-Tracking) ⚡
 * [Lidar obstacle detection using PCL](https://github.com/olpotkin/Lidar-Obstacle-Detection), [Demo](https://www.youtube.com/watch?v=vvIn1Js49oA) ⚡
-* [Vehicle Detection and Tracking + Advanced Lane finding](https://github.com/olpotkin/Vehicle-Detection), [Demo](https://www.youtube.com/watch?v=nrLscZvDLdo) ⚡
-* [Extended Kalman Filter using C++](https://github.com/olpotkin/CarND-Extended-Kalman-Filter), [Demo](https://www.youtube.com/watch?v=5ioa1LRHrOQ) 🕸
+* [Vehicle Detection and Tracking + Advanced Lane finding](https://github.com/olpotkin/Vehicle-Detection), [Demo](https://www.youtube.com/watch?v=nrLscZvDLdo) 🕸
 
 #### Machine Learning / Deep Learning 🧠
 
@@ -25,7 +23,6 @@ Welcome to my GitHub profile. I really glad to share main ideas or directions I'
 
 * [Cubo Race: Unity 3D game prototype](https://github.com/olpotkin/unity-game-prototype-one), [Demo](https://www.youtube.com/watch?v=Z032TSN2Eyg) 🕸
 * [Popular Movies: Android app development experiment](https://github.com/olpotkin/Popular-Movies-App) 🕸
-
 
 
 <!--

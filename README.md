@@ -25,7 +25,7 @@ Welcome to my GitHub profile. I really glad to share main ideas and directions I
 * [Popular Movies: Android app development experiment](https://github.com/olpotkin/Popular-Movies-App) 🕸
 
 ### 🤝 Let's connect
-[![olpotkin@gmail.com](https://img.shields.io/badge/olpotkin@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:olpotkin@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olegpotkin/)
+[![olpotkin@gmail.com](https://img.shields.io/badge/olpotkin@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:olpotkin@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olegpotkin/) [![researchgate](https://img.shields.io/badge/researchgate%20-%230ECAD4.svg?&style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Oleg-Potkin/)
 
 <!--
 It is is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

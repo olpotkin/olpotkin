@@ -2,12 +2,14 @@
 
 Welcome to my GitHub profile. I really glad to share main ideas and directions I'm working on:
 
-#### 🚗 Autonomous driving
+#### 🚗 Autonomous Driving
 
 * [Path Planning for Self-Driving Car](https://github.com/olpotkin/CarND-Path-Planning), [[**Demo**]](https://youtu.be/RvxbfHT3odE) ⚡
 * [Extended Kalman Filter](https://github.com/olpotkin/CarND-Extended-Kalman-Filter), [[**Demo**]](https://youtu.be/5ioa1LRHrOQ) ⚡
+* [Unscented Kalman Filter 1 (SDCND)](https://github.com/olpotkin/CarND-Unscented-Kalman-Filter) and [Unscented Kalman Filter 2 (SFND)](https://github.com/olpotkin/UKF-Highway-Project) ⚡
 * [Lidar obstacle detection using PCL](https://github.com/olpotkin/Lidar-Obstacle-Detection), [[**Demo**]](https://www.youtube.com/watch?v=vvIn1Js49oA) ⚡
 * [Vehicle Detection and Tracking + Advanced Lane finding](https://github.com/olpotkin/Vehicle-Detection), [[**Demo**]](https://www.youtube.com/watch?v=nrLscZvDLdo) 🕸
+* [Behavioral Cloning](https://github.com/olpotkin/CarND-Behavioral-Cloning), [[**Demo**]](https://youtu.be/7-_1MnMiw1U) 🕸
 
 #### 🧠 Machine Learning / Deep Learning
 
